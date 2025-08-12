@@ -1,13 +1,12 @@
-# ✔️MYSecure : Microsoft Engage Project'22( With Face Recognition Technology)
+# ✔️MYSecure :  Face Recognition Web Application
 
 ### MY-SECURE is the Web Application that helps you manage your passwords as we generally have many passwords for different websites. So, It becomes difficult for us to remember them all, and storing it anywhere is not secure at all. So, Here's MY-SECURE to help you to save and manage your passwords.
 
-#### 🔗 Demo Video Link: https://youtu.be/DCnqAczzKlk
 #### 🔗 Web Application(Hosted): https://mysecure1.herokuapp.com/
 &nbsp;
 
 #### ✂️ Note : As I was getting issue while merging the code of password manager and face recognition system as firstly I have made them seprately so I have hosted the password manager and then the link embeded in the face  recognition application. So, the code of passwd Manager is in another repository. You can access it through the link below 👇.
-#### 🔗 Password-Manager2 Github Repository link: https://github.com/mansi2024/PasswdManager
+#### 🔗 Password-Manager2 Github Repository link: https://github.com/samratmanjeet7/PasswdManager
 &nbsp;
 
 ## 📃Table of Contents
@@ -40,7 +39,7 @@
 ## 🚀Getting Started
 - Clone the git repository.
 ```
-  git clone git@github.com:mansi2024/MYSecure.git.
+  git clone git@github.com:samratmanjeet7/MYSecure.git.
 ```
 - Creating the Virtual Environment.
 ```
