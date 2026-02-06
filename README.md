@@ -60,28 +60,6 @@
 ```
    flask run
 ```
-
-<a id="flow"></a>
-
-
-### - Sign-Up and then Sign-in
-
-![Screenshot (41)](https://user-images.githubusercontent.com/87639872/195309781-563a98b6-4c51-47d2-8839-b258609ba124.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/87639872/195309779-49d22202-7615-4c73-9196-254721632d19.png)
-
-### - Add Password
-![Screenshot (45)](https://user-images.githubusercontent.com/87639872/195309762-6de0634c-d579-4eb7-a15d-e78ef8af111d.png)
-
-
-### - Your Account
-Here you can add passwords, and update your account details by clicking on Account.
-![Screenshot (44)](https://user-images.githubusercontent.com/87639872/195309767-4dd48d41-f6d9-4d25-907b-5bb91d30cb19.png)
-
-### - Your Dashboard
-Here all your Saved Password is where you can also update, and delete your website details.
-![Screenshot (51)](https://user-images.githubusercontent.com/87639872/195309738-9d584376-bf82-4851-a774-6bb24d44b6e7.png)
-
-<a id="challengthe es"></a>
 ## Challenges Faced and Learnings
 - I don't know Flask and never built any application on it, So firstly I learned Flask through LinkedIn Learning completed the Flask essential training, made the URL shortener small application to understand it more, and then started to build MY-SECURE.
 - I have faced problems in using Face Recognition Library but read the documentation and was successfully able to implement it.
